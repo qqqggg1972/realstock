@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
+<!-- eric6 tasks file for project realstock -->
+<!-- Saved: 2016-08-26, 02:15:49 -->
+<Tasks version="6.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="1" uid="{90f75c85-754d-4309-bc4e-2e64aee4f31b}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2016-08-26, 02:15:44</Created>
+    <Resource>
+      <Filename>lay.py</Filename>
+      <Linenumber>47</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>
